@@ -3,3 +3,6 @@ git add .
 git commit -m "add initial files for backend" 
 git branch -m main (change branch)
 git remote add origin https://github.com/78109732/Backend.git(remote set)
+
+nodemon:
+npm i -D nodemon
